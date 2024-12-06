@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Numerical Methods\SLE2\Manip.h(45,41): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  SLE2.vcxproj -> D:\Numerical Methods\SLE2\x64\Debug\SLE2.exe
